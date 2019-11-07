@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" version="1.1">
+ <defs>
+  <linearGradient id="linearGradient4227">
+   <stop style="stop-color:#292c2f" offset="0"/>
+   <stop style="stop-color:#000000;stop-opacity:0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4165" x1="409.571" x2="409.571" y1="543.798" y2="503.798" gradientTransform="translate(-1.7372437e-5,0)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4214"/>
+  <linearGradient id="linearGradient4233" x1="403.571" x2="416.571" y1="523.798" y2="536.798" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4227"/>
+  <linearGradient id="linearGradient4214">
+   <stop style="stop-color:#2f74c8" offset="0"/>
+   <stop style="stop-color:#4699d7" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4159">
+   <stop style="stop-color:#2a2c2f" offset="0"/>
+   <stop style="stop-color:#424649" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4312" x1="25" x2="25" y1="34" y2="14" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4159"/>
+  <linearGradient id="linearGradient3035" x1="409.571" x2="409.571" y1="543.798" y2="503.798" gradientTransform="translate(-1.7372437e-5,0)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4214"/>
+  <linearGradient id="linearGradient3037" x1="25" x2="25" y1="34" y2="14" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4159"/>
+  <linearGradient id="linearGradient3039" x1="403.571" x2="416.571" y1="523.798" y2="536.798" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4227"/>
+ </defs>
+ <g transform="translate(-384.57143,-515.798)">
+  <g transform="matrix(0.69999947,0,0,0.70000053,114.57165,165.13913)">
+   <rect style="fill:url(#linearGradient3035)" width="40" height="40" x="388.57" y="503.8" ry="0"/>
+   <rect style="fill:#2a6bae" width="40" height="1" x="388.57" y="542.8"/>
+   <path style="fill:url(#linearGradient3037)" transform="translate(384.57143,499.798)" d="M 20.414062,14 19,15.414062 27.585938,24 19,32.585938 20.414062,34 29,25.414062 30.414062,24 29,22.585938 20.414062,14 z"/>
+   <path style="opacity:0.4;fill:url(#linearGradient3039);fill-rule:evenodd" d="m 404.98573,533.798 9.5857,9.5857 14,0 0,-5.99991 -13.58607,-13.58607 z"/>
+   <path style="fill:#ffffff;fill-opacity:0.19607843;fill-rule:evenodd" d="m 414.98564,523.798 -0.41421,0.41365 -9.99988,-9.99988 0.41377,-0.41377 z"/>
+  </g>
+ </g>
+</svg>

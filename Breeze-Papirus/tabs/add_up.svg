@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38" height="32" version="1.1">
+ <g style="fill:#31363b" transform="matrix(1.7368407,0,0,1.4545455,-961.72342,-848.17455)">
+  <path style="fill:#31363b" transform="scale(-1,1)" d="m -575.72,583.12 h 22 v 22 h -22 z"/>
+  <g style="fill:#31363b">
+   <path style="fill:#31363b" d="m 553.72,583.12 h 22 v 22 h -22 z"/>
+   <path style="fill:#31363b" d="m 555.72,585.12 h 17 v 17 h -17 z"/>
+  </g>
+ </g>
+ <g style="fill:#eff0f1" transform="translate(11,8)">
+  <path style="fill:#eff0f1" class="ColorScheme-Text" d="M 4,2 C 4,2 2,2 2,4 v 7 c 0,1 -1,1 -1,1 H 0 v 2 h 16 v -2 h -1 c 0,0 -1,0 -1,-1 V 4 c 0,0 0,-2 -2,-2 z m 3,3 h 2 v 2 h 2 V 9 H 9 v 2 H 7 V 9 H 5 V 7 h 2 z"/>
+ </g>
+ <rect style="fill:#616569" width="26" height="1" x="6" y="29"/>
+ <rect style="fill:#616569" width="26" height="1" x="6" y="2"/>
+ <rect style="fill:#616569" width="26" height="1" x="3" y="-6" transform="rotate(90)"/>
+ <rect style="fill:#616569" width="26" height="1" x="3" y="-33" transform="rotate(90)"/>
+</svg>

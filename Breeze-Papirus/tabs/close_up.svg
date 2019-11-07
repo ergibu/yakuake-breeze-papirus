@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38" height="32" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
+  </style>
+ </defs>
+ <g style="fill:#31363b" transform="matrix(1.7368407,0,0,1.4545455,-961.72343,-848.17457)">
+  <path style="fill:#31363b" transform="scale(-1,1)" d="m -575.72,583.12 h 22 v 22 h -22 z"/>
+  <g style="fill:#31363b">
+   <path style="fill:#31363b" d="m 553.72,583.12 h 22 v 22 h -22 z"/>
+   <path style="fill:#31363b" d="m 555.72,585.12 h 17 v 17 h -17 z"/>
+  </g>
+ </g>
+ <rect style="fill:#616569" width="26" height="1" x="6" y="29"/>
+ <rect style="fill:#616569" width="26" height="1" x="6" y="2"/>
+ <rect style="fill:#616569" width="26" height="1" x="3" y="-6" transform="rotate(90)"/>
+ <rect style="fill:#616569" width="26" height="1" x="3" y="-33" transform="rotate(90)"/>
+ <g style="fill:#eff0f1" transform="translate(11,8)">
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 4,2 C 4,2 2,2 2,4 v 7 c 0,1 -1,1 -1,1 H 0 v 2 h 16 v -2 h -1 c 0,0 -1,0 -1,-1 V 4 C 14,4 14,2 12,2 Z M 5,5 H 6.4141 L 8,6.5859 9.5859,5 H 11 V 6.4141 L 9.4141,8 11,9.5859 V 11 H 9.5859 L 8,9.4141 6.4141,11 H 5 V 9.5859 L 6.5859,8 5,6.4141 Z"/>
+ </g>
+</svg>

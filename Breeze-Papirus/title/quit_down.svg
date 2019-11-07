@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" version="1.1">
+ <rect style="opacity:0;fill:#616569" width="40" height="40" x="0" y="0"/>
+ <path style="fill:#da4453" d="m 32.999997,19.999574 a 13,12.995255 0 1 1 -25.9999978,0 13,12.995255 0 1 1 25.9999978,0"/>
+ <g transform="matrix(1.6410384,0,0,1.6410437,-70.080847,46.07978)">
+  <path style="fill:none;stroke:#31363b;stroke-width:1.08342171;stroke-linecap:round" d="m 51.783561,-18.972762 6.218052,6.189611"/>
+  <path style="fill:none;stroke:#31363b;stroke-width:1.08538103;stroke-linecap:round" d="m 58,-18.999999 -6.214826,6.215237"/>
+ </g>
+</svg>
